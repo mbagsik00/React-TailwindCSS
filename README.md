@@ -1,2 +1,2 @@
-# React-TailwindCSS
-React + TailwindCSS Boilerplate
+# React + Tailwind CSS
+React + Tailwind CSS Boilerplate
